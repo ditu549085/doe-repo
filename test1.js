@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Testing file 1
 
 
@@ -9,3 +10,6 @@
 
 
 //testing Testing Testing
+=======
+//Testing file 1
+>>>>>>> parent of e592c86 (retest-file)
